@@ -8,6 +8,12 @@ Great for testing simple deployments to the cloud
 
 `npm start`
 ------------------------
+
+azure devops theortical ppt:
+
+https://in.docworkspace.com/d/sIDqW_JSNAfL744sG
+
+------------------------
 To run a pipeline in azure devops we need agent. we can run our jobs on microsoft provided agents or selfhosted agent
 
 1. steps to install of selfhosted agent:
