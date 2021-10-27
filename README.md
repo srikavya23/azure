@@ -14,7 +14,7 @@ To run a pipeline in azure devops we need agent. we can run our jobs on microsof
 
 Configure your account by following the steps outlined here.
 	
-**-->**Create the agent
+*Create the agent /n
 ~/$ mkdir myagent && cd myagent
 
 **-->**Download the agent: wget https://vstsagentpackage.azureedge.net/agent/2.194.0/vsts-agent-linux-x64-2.194.0.tar.gz
@@ -29,7 +29,7 @@ Configure your account by following the steps outlined here.
 
 That's it!
 -----------------------
-2.after all the setup, if we our project we get parallelism error. 
+2.after all the setup, if we run our project we get parallelism error . 
   so, Request Free Parallelism for your organization: https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR63mUWPlq7NEsFZhkyH8jChUMlM3QzdDMFZOMkVBWU5BWFM3SDI2QlRBSC4u
   
 ------------------------------  
