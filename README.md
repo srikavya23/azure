@@ -18,17 +18,21 @@ Configure your account by following the steps outlined here.
 
 ~/$ mkdir myagent && cd myagent
 
+
 * Download the agent: wget https://vstsagentpackage.azureedge.net/agent/2.194.0/vsts-agent-linux-x64-2.194.0.tar.gz
+
 
 *untar the file
 
 ~/myagent$ tar zxvf vsts-agent-linux-x64-2.194.0.tar.gz
+
 
 *Configure the agentDetailed instructions
 
 ~/myagent$ ./config.sh
 
 ~/myagent$ ./run.sh
+
 
 That's it!
 -----------------------
